@@ -1,0 +1,6 @@
+555|lima
+666|enam
+777|tujuh
+888|delapan
+999|sembilan
+1010|sepuluh
